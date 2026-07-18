@@ -1,7 +1,4 @@
 // Project: Anti sleep alarm for drivers
-// YouTube Channel: SKR Electronics Lab
-// Channel Link: https://youtube.com/@skr_electronics_lab
-// Instagram Link: https://www.instagram.com/skr_electronics_lab
 
 // Component's required - 1. Arduinos UNO or Nano
 //                        2. Eyel blink sensor
